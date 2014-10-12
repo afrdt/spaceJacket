@@ -6,7 +6,7 @@
  */
 
 #include <CapacitiveSensor.h> // include CapSense library
-CapacitiveSensor particles = CapacitiveSensor(12,14); // 3.3M resistor between pins 12 & 13, pin 13 is the sensor pin
+CapacitiveSensor particles = CapacitiveSensor(12,14); // 3.3M resistor between pins 12 & 14 (A0), pin 14 is the sensor pin
 CapacitiveSensor matter = CapacitiveSensor(10,11); // 3.3M resistor between pins 10 & 11, pin 11 is the sensor pin
 CapacitiveSensor galaxies = CapacitiveSensor(7,8); // 3.3M resistor between pins 7 & 8, pin 8 is the sensor pin
 CapacitiveSensor expansion = CapacitiveSensor(5,6); // 3.3M resistor between pins 5 & 6, pin 6 is the sensor pin
