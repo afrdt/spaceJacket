@@ -7,7 +7,7 @@ Embroidery patterns have always been associated with symbols that decorate every
 
 This wearable was developed during the <a href="http://www.kobakant.at/DIY/?p=4305">E-Textiles Live Lab</a> at <a href="http://schmiede.ca/">Schmiede</a> Festival in Hallein, Austria, organized by <a href="http://www.kobakant.at/">Kobakant</a>.
 
-The first sonic experiments were conducted with the valuable help of Stratos Bichakis. The sonic part is still under development.
+The first sonic experiments were conducted with the valuable help of <a href="https://github.com/StratosBichakis">Stratos Bichakis</a>. The sonic part is still under development.
 Many thanx to <a href="http://www.nikolaspsaroudakis.com/projects/">Nikolas Psaroudakis</a> for helping out with the Processing OSC code!
 
 Circuit:
